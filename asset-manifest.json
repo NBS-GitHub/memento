@@ -1,0 +1,13 @@
+{
+  "main.css": "/memento/static/css/main.9c0d2b35.chunk.css",
+  "main.js": "/memento/static/js/main.9608b7a5.chunk.js",
+  "main.js.map": "/memento/static/js/main.9608b7a5.chunk.js.map",
+  "static/js/1.4a34e45d.chunk.js": "/memento/static/js/1.4a34e45d.chunk.js",
+  "static/js/1.4a34e45d.chunk.js.map": "/memento/static/js/1.4a34e45d.chunk.js.map",
+  "runtime~main.js": "/memento/static/js/runtime~main.7edbf792.js",
+  "runtime~main.js.map": "/memento/static/js/runtime~main.7edbf792.js.map",
+  "static/css/main.9c0d2b35.chunk.css.map": "/memento/static/css/main.9c0d2b35.chunk.css.map",
+  "index.html": "/memento/index.html",
+  "precache-manifest.3c8f147562a2dd1446def7e7178d7c4a.js": "/memento/precache-manifest.3c8f147562a2dd1446def7e7178d7c4a.js",
+  "service-worker.js": "/memento/service-worker.js"
+}
