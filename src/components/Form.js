@@ -1,12 +1,14 @@
 import React from 'react';
 import './Form.css';
 
+const maxDate = new Date().toJSON().split('T')[0];
+
 const Form = props => {
     return (
         <div className="formWrap">
             <form onSubmit={props.submit}>
                 <div className="row">
-                    <input type="date" onChange={props.changeDate} />
+                    <input type="date" min="1900-01-01" max={maxDate} onChange={props.changeDate} />
                 </div>
                 <div className="row selectWrap">
                     <select name="countries" onChange={props.changeCountry}>
