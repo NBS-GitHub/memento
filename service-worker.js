@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/memento/precache-manifest.3c8f147562a2dd1446def7e7178d7c4a.js"
+  "/memento/precache-manifest.7646446ae2aadbfada53bcb1c6914be9.js"
 );
 
 workbox.clientsClaim();

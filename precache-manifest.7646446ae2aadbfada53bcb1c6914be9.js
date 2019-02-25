@@ -4,19 +4,19 @@ self.__precacheManifest = [
     "url": "/memento/static/js/runtime~main.7edbf792.js"
   },
   {
-    "revision": "9608b7a5507bbc6b46eb",
-    "url": "/memento/static/js/main.9608b7a5.chunk.js"
+    "revision": "cd6b2e47865dcf725dd7",
+    "url": "/memento/static/js/main.cd6b2e47.chunk.js"
   },
   {
     "revision": "4a34e45d34cafb7623bd",
     "url": "/memento/static/js/1.4a34e45d.chunk.js"
   },
   {
-    "revision": "9608b7a5507bbc6b46eb",
-    "url": "/memento/static/css/main.9c0d2b35.chunk.css"
+    "revision": "cd6b2e47865dcf725dd7",
+    "url": "/memento/static/css/main.ccb53be2.chunk.css"
   },
   {
-    "revision": "a60cf2f953cb6afdf6d270da9f74fbbb",
+    "revision": "435fcf5c75748913129cf95eb2f57512",
     "url": "/memento/index.html"
   }
 ];
