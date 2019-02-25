@@ -1,0 +1,52 @@
+header {
+    background-color: #b61111;
+    flex-basis: 15vh;
+    display: flex;
+    padding: 0 5vw;
+    justify-content:space-around;
+    align-items: center;
+    border-bottom: 1px solid #940000;
+    color: #fff;
+}
+
+header > span:first-child {
+    font-size: 5.5vw;
+}
+
+header > span:last-child {
+    font-size: 3.6vw;
+}
+
+@media (orientation: portrait) {
+    header {
+        flex-direction: column;
+    }
+
+    header > span:first-child {
+        font-size: 10vw;
+    }
+    
+    header > span:last-child {
+        font-size: 6vw;
+    }
+}
+
+@media (min-width: 960px) and (orientation: landscape) {
+    header > span:first-child {
+        font-size: 5vw;
+    }
+    
+    header > span:last-child {
+        font-size: 3vw;
+    }
+}
+
+@media (min-height:1240px) and (orientation: portrait) {
+    header > span:first-child {
+        font-size: 7vw;
+    }
+    
+    header > span:last-child {
+        font-size: 4vw;
+    }
+}
