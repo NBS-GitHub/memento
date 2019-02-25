@@ -1,5 +1,5 @@
 # Memento
-### Do you want to know your death date?
+## Do you want to know your death date?
 ---
 This React application can be very helpful.
 
@@ -13,4 +13,4 @@ In return you will get your predicted death date, based on the information from 
 It will also show you the lived and the remaining time in percents.
 
 ---
-### Available on GitHub Page: [Memento](https://nbs-github.github.io/memento/).
+### Available on GitHub Pages: [Memento](https://nbs-github.github.io/memento/).
